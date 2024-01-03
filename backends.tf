@@ -3,7 +3,7 @@ terraform {
     organization = "Trial-Org"
 
     workspaces {
-      name = "Ansible-Terr-Jenkins"
+      name = "Ansible-Terr-Jenkins-ansible pipeline"
     }
   }
 }
