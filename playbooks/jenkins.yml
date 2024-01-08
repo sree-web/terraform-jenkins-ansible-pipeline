@@ -1,5 +1,5 @@
 ---
-- name : Install Jenkins
+- name : Install Jenkins in localhost
   hosts: localhost
   become: yes
 - name: download apt 
